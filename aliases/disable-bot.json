@@ -1,0 +1,5 @@
+{
+  "name" : "!disable-bot",
+  "command" : "!bot-enable-meta false",
+  "modifyingUserLevel" : "BROADCASTER"
+}

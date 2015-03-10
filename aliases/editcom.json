@@ -1,0 +1,5 @@
+{
+  "name" : "!editcom",
+  "command" : "!command set",
+  "modifyingUserLevel" : "BROADCASTER"
+}

@@ -1,0 +1,5 @@
+{
+  "name" : "!unsilence",
+  "command" : "!silence-meta false",
+  "modifyingUserLevel" : "BROADCASTER"
+}

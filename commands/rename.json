@@ -1,0 +1,15 @@
+{
+  "name" : "!rename",
+  "response" : "example response",
+  "execUserLevel" : "MODERATOR",
+  "minArgs" : 2,
+  "count" : 0,
+  "modifyingUserLevels" : {
+    "nameModifyingUL" : "SUPER_MODERATOR",
+    "responseModifyingUL" : "DEFAULT",
+    "userLevelModifyingUL" : "BROADCASTER"
+  },
+  "script" : "ScriptRename.groovy",
+  "enabled" : true,
+  "debug" : false
+}
