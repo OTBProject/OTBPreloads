@@ -1,0 +1,15 @@
+{
+  "name" : "~%general:insufficient.user.level",
+  "response" : "Insufficient user level [[ifarg2{{to perform action '[[fromarg2]]' }}]]in command '[[arg1]]'.",
+  "execUserLevel" : "MODERATOR",
+  "minArgs" : 0,
+  "count" : 0,
+  "modifyingUserLevels" : {
+    "nameModifyingUL" : "INTERNAL",
+    "responseModifyingUL" : "SUPER_MODERATOR",
+    "userLevelModifyingUL" : "INTERNAL"
+  },
+  "script" : null,
+  "enabled" : true,
+  "debug" : true
+}
