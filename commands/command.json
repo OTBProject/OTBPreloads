@@ -1,0 +1,15 @@
+{
+  "name" : "!command",
+  "response" : "example response",
+  "execUserLevel" : "MODERATOR",
+  "minArgs" : 1,
+  "count" : 0,
+  "modifyingUserLevels" : {
+    "nameModifyingUL" : "SUPER_MODERATOR",
+    "responseModifyingUL" : "DEFAULT",
+    "userLevelModifyingUL" : "BROADCASTER"
+  },
+  "script" : "ScriptCommand.groovy",
+  "enabled" : true,
+  "debug" : false
+}

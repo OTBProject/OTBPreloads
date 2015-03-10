@@ -1,0 +1,5 @@
+{
+  "name" : "!enable",
+  "command" : "!command enable",
+  "modifyingUserLevel" : "BROADCASTER"
+}

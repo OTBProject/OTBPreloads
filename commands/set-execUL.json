@@ -1,0 +1,15 @@
+{
+  "name" : "!setExecUL",
+  "response" : "example response",
+  "execUserLevel" : "MODERATOR",
+  "minArgs" : 2,
+  "count" : 0,
+  "modifyingUserLevels" : {
+    "nameModifyingUL" : "SUPER_MODERATOR",
+    "responseModifyingUL" : "DEFAULT",
+    "userLevelModifyingUL" : "BROADCASTER"
+  },
+  "script" : "ScriptSetExecUL.groovy",
+  "enabled" : true,
+  "debug" : false
+}

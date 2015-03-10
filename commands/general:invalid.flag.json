@@ -1,0 +1,15 @@
+{
+  "name" : "~%general:invalid.flag",
+  "response" : "Invalid flag '[[arg2]]' in command '[[arg1]]'.",
+  "execUserLevel" : "MODERATOR",
+  "minArgs" : 0,
+  "count" : 0,
+  "modifyingUserLevels" : {
+    "nameModifyingUL" : "INTERNAL",
+    "responseModifyingUL" : "SUPER_MODERATOR",
+    "userLevelModifyingUL" : "INTERNAL"
+  },
+  "script" : null,
+  "enabled" : true,
+  "debug" : true
+}

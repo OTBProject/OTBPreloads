@@ -1,0 +1,15 @@
+{
+  "name" : "~%command.set.is.alias",
+  "response" : "Set command '[[arg1]]'. Warning: '[[arg1]]' is an already an alias, so running it may not run the command.",
+  "execUserLevel" : "MODERATOR",
+  "minArgs" : 0,
+  "count" : 0,
+  "modifyingUserLevels" : {
+    "nameModifyingUL" : "INTERNAL",
+    "responseModifyingUL" : "SUPER_MODERATOR",
+    "userLevelModifyingUL" : "INTERNAL"
+  },
+  "script" : null,
+  "enabled" : true,
+  "debug" : false
+}

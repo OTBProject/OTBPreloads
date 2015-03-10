@@ -1,0 +1,5 @@
+{
+  "name" : "!delcom",
+  "command" : "!command remove",
+  "modifyingUserLevel" : "BROADCASTER"
+}

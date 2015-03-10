@@ -1,0 +1,5 @@
+{
+  "name" : "!bot-enable",
+  "command" : "!bot-enable-meta true",
+  "modifyingUserLevel" : "BROADCASTER"
+}

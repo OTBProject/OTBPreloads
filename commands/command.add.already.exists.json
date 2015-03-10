@@ -1,0 +1,15 @@
+{
+  "name" : "~%command.add.already.exists",
+  "response" : "The command '[[arg1]]' already exists and cannot be added.",
+  "execUserLevel" : "MODERATOR",
+  "minArgs" : 0,
+  "count" : 0,
+  "modifyingUserLevels" : {
+    "nameModifyingUL" : "INTERNAL",
+    "responseModifyingUL" : "SUPER_MODERATOR",
+    "userLevelModifyingUL" : "INTERNAL"
+  },
+  "script" : null,
+  "enabled" : true,
+  "debug" : false
+}
