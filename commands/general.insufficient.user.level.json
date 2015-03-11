@@ -1,6 +1,6 @@
 {
-  "name" : "~%alias.general:does.not.exist",
-  "response" : "No such alias '[[arg1]]'.",
+  "name" : "~%general:insufficient.user.level",
+  "response" : "Insufficient user level [[ifarg2{{to perform action '[[fromarg2]]' }}]]in command '[[arg1]]'.",
   "execUserLevel" : "MODERATOR",
   "minArgs" : 0,
   "count" : 0,

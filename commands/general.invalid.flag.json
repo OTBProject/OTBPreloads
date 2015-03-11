@@ -1,6 +1,6 @@
 {
-  "name" : "~%general:insufficient.args",
-  "response" : "Insufficient arguments for command '[[arg1]]'[[ifarg2{{ when run with option(s): '[[fromarg2]]'}}]].",
+  "name" : "~%general:invalid.flag",
+  "response" : "Invalid flag '[[arg2]]' in command '[[arg1]]'.",
   "execUserLevel" : "MODERATOR",
   "minArgs" : 0,
   "count" : 0,
