@@ -1,6 +1,6 @@
 {
-  "name" : "~%command.general:does.not.exist",
-  "response" : "No such command '[[arg1]]'.",
+  "name" : "~%general:invalid.arg",
+  "response" : "Invalid argument '[[arg2]]' in command '[[arg1]]'.",
   "execUserLevel" : "MODERATOR",
   "minArgs" : 0,
   "count" : 0,
