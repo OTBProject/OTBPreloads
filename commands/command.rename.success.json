@@ -1,6 +1,6 @@
 {
   "name" : "~%command.rename.already.in.use",
-  "response" : "Cannot rename command to '[[arg2]]' - name is already in use.",
+  "response" : "Cannot rename command to '[[arg1]]' - name is already in use.",
   "execUserLevel" : "MODERATOR",
   "minArgs" : 0,
   "count" : 0,
