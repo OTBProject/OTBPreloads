@@ -1,0 +1,15 @@
+{
+  "name" : "!join",
+  "response" : "example response",
+  "execUserLevel" : "DEFAULT",
+  "minArgs" : 0,
+  "count" : 0,
+  "modifyingUserLevels" : {
+    "nameModifyingUL" : "SUPER_MODERATOR",
+    "responseModifyingUL" : "DEFAULT",
+    "userLevelModifyingUL" : "BROADCASTER"
+  },
+  "script" : "ScriptJoin.groovy",
+  "enabled" : true,
+  "debug" : false
+}

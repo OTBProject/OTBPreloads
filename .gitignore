@@ -3,6 +3,8 @@
 !/aliases/
 !/commands
 !/commands/
+!/bot-channel
+!/bot-channel/
 !/*.md
 !.gitignore
 !LICENSE
