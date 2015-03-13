@@ -1,0 +1,15 @@
+{
+  "name" : "!assignUserLevel",
+  "response" : "example response",
+  "execUserLevel" : "BROADCASTER",
+  "minArgs" : 2,
+  "count" : 0,
+  "modifyingUserLevels" : {
+    "nameModifyingUL" : "BROADCASTER",
+    "responseModifyingUL" : "DEFAULT",
+    "userLevelModifyingUL" : "BROADCASTER"
+  },
+  "script" : "ScriptAssignUserLevel.groovy",
+  "enabled" : true,
+  "debug" : false
+}

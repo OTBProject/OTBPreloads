@@ -1,0 +1,15 @@
+{
+  "name" : "!leave",
+  "response" : "example response",
+  "execUserLevel" : "SUPER_MODERATOR",
+  "minArgs" : 0,
+  "count" : 0,
+  "modifyingUserLevels" : {
+    "nameModifyingUL" : "BROADCASTER",
+    "responseModifyingUL" : "DEFAULT",
+    "userLevelModifyingUL" : "BROADCASTER"
+  },
+  "script" : "ScriptLeave.groovy",
+  "enabled" : true,
+  "debug" : false
+}

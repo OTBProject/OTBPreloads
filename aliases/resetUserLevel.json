@@ -1,0 +1,5 @@
+{
+  "name" : "!resetUserLevel",
+  "command" : "!assignUserLevel reset",
+  "modifyingUserLevel" : "BROADCASTER"
+}
