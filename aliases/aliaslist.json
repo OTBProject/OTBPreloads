@@ -1,0 +1,5 @@
+{
+  "name" : "!aliaslist",
+  "command" : "!alias-meta list",
+  "modifyingUserLevel" : "BROADCASTER"
+}
