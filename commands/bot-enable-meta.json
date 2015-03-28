@@ -1,7 +1,7 @@
 {
   "name" : "!bot-enable-meta",
   "response" : "example response",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "SUPER_MODERATOR",
   "minArgs" : 1,
   "count" : 0,
   "modifyingUserLevels" : {
