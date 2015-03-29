@@ -1,6 +1,6 @@
 {
   "name" : "~%command.remove.success",
-  "response" : "Removed command '[[arg1]]",
+  "response" : "Removed command '[[arg1]]'.",
   "execUserLevel" : "MODERATOR",
   "minArgs" : 0,
   "count" : 0,

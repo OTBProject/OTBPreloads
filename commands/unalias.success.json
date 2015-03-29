@@ -1,6 +1,6 @@
 {
   "name" : "~%unalias.success",
-  "response" : "Unaliased '[[arg1]]",
+  "response" : "Unaliased '[[arg1]]'.",
   "execUserLevel" : "MODERATOR",
   "minArgs" : 0,
   "count" : 0,

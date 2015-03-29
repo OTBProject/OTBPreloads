@@ -1,6 +1,6 @@
 {
   "name" : "~%assign.user.level.success",
-  "response" : "Assigned user level to [[arg1]]",
+  "response" : "Assigned user level to [[arg1]].",
   "execUserLevel" : "MODERATOR",
   "minArgs" : 0,
   "count" : 0,
