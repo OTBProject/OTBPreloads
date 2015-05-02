@@ -6,7 +6,7 @@
   "count" : 0,
   "modifyingUserLevels" : {
     "nameModifyingUL" : "SUPER_MODERATOR",
-    "responseModifyingUL" : "DEFAULT",
+    "responseModifyingUL" : "SUPER_MODERATOR",
     "userLevelModifyingUL" : "BROADCASTER"
   },
   "script" : "ScriptSetMinArgs.groovy",
