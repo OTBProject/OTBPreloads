@@ -1,0 +1,15 @@
+{
+  "name" : "~%unschedule.not.scheduled",
+  "response" : "Command [[arg1]] is not scheduled.",
+  "execUserLevel" : "MODERATOR",
+  "minArgs" : 1,
+  "count" : 0,
+  "modifyingUserLevels" : {
+    "nameModifyingUL" : "INTERNAL",
+    "responseModifyingUL" : "SUPER_MODERATOR",
+    "userLevelModifyingUL" : "INTERNAL"
+  },
+  "script" : null,
+  "enabled" : true,
+  "debug" : false
+}

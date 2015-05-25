@@ -1,0 +1,15 @@
+{
+  "name" : "!schedule",
+  "response" : "example response",
+  "execUserLevel" : "SUPER_MODERATOR",
+  "minArgs" : 1,
+  "count" : 0,
+  "modifyingUserLevels" : {
+    "nameModifyingUL" : "SUPER_MODERATOR",
+    "responseModifyingUL" : "DEFAULT",
+    "userLevelModifyingUL" : "BROADCASTER"
+  },
+  "script" : "ScriptSchedule.groovy",
+  "enabled" : true,
+  "debug" : false
+}
