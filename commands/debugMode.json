@@ -1,0 +1,15 @@
+{
+  "name" : "!debugMode",
+  "response" : "example response",
+  "execUserLevel" : "SUPER_MODERATOR",
+  "minArgs" : 0,
+  "count" : 0,
+  "modifyingUserLevels" : {
+    "nameModifyingUL" : "SUPER_MODERATOR",
+    "responseModifyingUL" : "SUPER_MODERATOR",
+    "userLevelModifyingUL" : "BROADCASTER"
+  },
+  "script" : "ScriptDebugMode.groovy",
+  "enabled" : true,
+  "debug" : false
+}

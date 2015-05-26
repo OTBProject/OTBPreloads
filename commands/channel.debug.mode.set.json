@@ -1,6 +1,6 @@
 {
-  "name" : "~%bot.joined.channel",
-  "response" : "Hi, I'm [[bot]], and I'm an OTBProject chat bot! For more information, go to http://otbproject.github.io",
+  "name" : "~%channel.debug.mode.set",
+  "response" : "Channel debug mode is set to: [[arg1]]",
   "execUserLevel" : "MODERATOR",
   "minArgs" : 0,
   "count" : 0,
