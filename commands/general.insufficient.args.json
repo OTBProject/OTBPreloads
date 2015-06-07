@@ -1,7 +1,7 @@
 {
   "name" : "~%general:insufficient.args",
   "response" : "Insufficient arguments for command '[[arg1]]'[[ifarg2{{ when run with option(s): '[[fromarg2]]'}}]].",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {

@@ -1,7 +1,7 @@
 {
   "name" : "~%quote.add.already.exists",
   "response" : "That quote already exists. Congrats on typing it exactly the same way.",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {

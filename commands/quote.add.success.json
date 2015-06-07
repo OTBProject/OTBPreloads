@@ -1,7 +1,7 @@
 {
   "name" : "~%quote.add.success",
   "response" : "Added quote with ID '[[arg1]]'.",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {

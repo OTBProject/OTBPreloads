@@ -1,7 +1,7 @@
 {
   "name" : "~%command.general:does.not.exist",
   "response" : "No such command '[[arg1]]'.",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {

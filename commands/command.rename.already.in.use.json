@@ -1,7 +1,7 @@
 {
   "name" : "~%command.rename.success",
   "response" : "Renamed '[[arg1]]' to '[[arg2]]'.",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {
