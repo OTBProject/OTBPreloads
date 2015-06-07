@@ -1,7 +1,7 @@
 {
   "name" : "~%bot.leave.need.name",
   "response" : "To remove the bot from your channel, please type \"!leave <bot name>\".",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {

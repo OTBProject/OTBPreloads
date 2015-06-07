@@ -1,7 +1,7 @@
 {
   "name" : "~%quote.does.not.exist",
   "response" : "No such quote [[args]].",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {

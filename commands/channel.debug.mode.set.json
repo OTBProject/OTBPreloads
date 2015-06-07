@@ -1,7 +1,7 @@
 {
   "name" : "~%channel.debug.mode.set",
   "response" : "Channel debug mode is set to: [[arg1]]",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {

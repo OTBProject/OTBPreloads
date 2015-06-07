@@ -1,7 +1,7 @@
 {
   "name" : "~%general:invalid.arg",
   "response" : "Invalid argument '[[arg2]]' in command '[[arg1]]'.",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {

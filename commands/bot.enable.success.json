@@ -1,7 +1,7 @@
 {
   "name" : "~%bot.enable.success",
   "response" : "Bot enabled.",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {

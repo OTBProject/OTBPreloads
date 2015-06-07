@@ -1,7 +1,7 @@
 {
   "name" : "~%assign.unsupported.user.level",
   "response" : "The user level provided is not supported because it is based on the user's status on [[service]].",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {

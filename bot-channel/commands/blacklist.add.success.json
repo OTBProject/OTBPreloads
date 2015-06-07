@@ -1,7 +1,7 @@
 {
   "name" : "~%blacklist.add.success",
   "response" : "Added '[[arg1]]' to the blacklist.",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {

@@ -1,7 +1,7 @@
 {
   "name" : "~%at.not.in.channel",
   "response" : "Not in channel: [[arg1]].",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {

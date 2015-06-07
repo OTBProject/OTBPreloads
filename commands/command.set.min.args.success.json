@@ -1,7 +1,7 @@
 {
   "name" : "~%command.set.min.args.success",
   "response" : "Set minimum arguments for command '[[arg1]]'.",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {

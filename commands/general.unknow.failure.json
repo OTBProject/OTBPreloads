@@ -1,7 +1,7 @@
 {
   "name" : "~%general:unknown.failure",
   "response" : "Unknown failure in command '[[arg1]]' performing action: [[fromarg2{{No action provided}}]].",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {
