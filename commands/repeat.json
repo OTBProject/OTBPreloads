@@ -1,5 +1,5 @@
 {
-  "name" : "!command",
+  "name" : "!repeat",
   "response" : "example response",
   "execUserLevel" : "MODERATOR",
   "minArgs" : 0,
