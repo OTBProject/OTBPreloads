@@ -1,0 +1,15 @@
+{
+  "name" : "~%repeat.already.scheduled",
+  "response" : "Command '[[args]]' is already set to repeat.",
+  "execUserLevel" : "INTERNAL",
+  "minArgs" : 0,
+  "count" : 0,
+  "modifyingUserLevels" : {
+    "nameModifyingUL" : "INTERNAL",
+    "responseModifyingUL" : "SUPER_MODERATOR",
+    "userLevelModifyingUL" : "INTERNAL"
+  },
+  "script" : null,
+  "enabled" : true,
+  "debug" : false
+}
