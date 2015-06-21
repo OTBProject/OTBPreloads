@@ -1,7 +1,7 @@
 {
-  "name" : "!repeat",
+  "name" : "!uptime",
   "response" : "example response",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "DEFAULT",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {
@@ -9,7 +9,7 @@
     "responseModifyingUL" : "SUPER_MODERATOR",
     "userLevelModifyingUL" : "BROADCASTER"
   },
-  "script" : "ScriptRepeat.groovy",
+  "script" : "ScriptBotUptime.groovy",
   "enabled" : true,
   "debug" : false
 }
