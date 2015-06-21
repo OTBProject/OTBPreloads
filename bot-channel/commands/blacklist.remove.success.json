@@ -1,7 +1,7 @@
 {
   "name" : "~%blacklist.remove.success",
   "response" : "Removed '[[arg1]]' from the blacklist.",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {

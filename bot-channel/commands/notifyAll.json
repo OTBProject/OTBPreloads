@@ -1,5 +1,5 @@
 {
-  "name" : "!joinMode",
+  "name" : "!notifyAll",
   "response" : "example response",
   "execUserLevel" : "SUPER_MODERATOR",
   "minArgs" : 0,
@@ -9,7 +9,7 @@
     "responseModifyingUL" : "SUPER_MODERATOR",
     "userLevelModifyingUL" : "BROADCASTER"
   },
-  "script" : "ScriptJoinMode.groovy",
+  "script" : "ScriptNotifyAll.groovy",
   "enabled" : true,
   "debug" : false
 }

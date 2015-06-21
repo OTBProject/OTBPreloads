@@ -1,6 +1,6 @@
 {
-  "name" : "~%alias.disabled",
-  "response" : "Disabled alias '[[arg1]]'.",
+  "name" : "~%repeat.set.success",
+  "response" : "Command '[[fromarg3]]' set to run every [[arg1]] [[arg2.lower]].",
   "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,

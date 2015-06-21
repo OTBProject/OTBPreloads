@@ -1,15 +1,15 @@
 {
-  "name" : "!joinMode",
+  "name" : "!untimeout",
   "response" : "example response",
-  "execUserLevel" : "SUPER_MODERATOR",
-  "minArgs" : 0,
+  "execUserLevel" : "MODERATOR",
+  "minArgs" : 1,
   "count" : 0,
   "modifyingUserLevels" : {
     "nameModifyingUL" : "SUPER_MODERATOR",
     "responseModifyingUL" : "SUPER_MODERATOR",
     "userLevelModifyingUL" : "BROADCASTER"
   },
-  "script" : "ScriptJoinMode.groovy",
+  "script" : "ScriptUntimeout.groovy",
   "enabled" : true,
   "debug" : false
 }

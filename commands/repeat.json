@@ -1,7 +1,7 @@
 {
-  "name" : "!joinMode",
+  "name" : "!repeat",
   "response" : "example response",
-  "execUserLevel" : "SUPER_MODERATOR",
+  "execUserLevel" : "MODERATOR",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {
@@ -9,7 +9,7 @@
     "responseModifyingUL" : "SUPER_MODERATOR",
     "userLevelModifyingUL" : "BROADCASTER"
   },
-  "script" : "ScriptJoinMode.groovy",
+  "script" : "ScriptRepeat.groovy",
   "enabled" : true,
   "debug" : false
 }

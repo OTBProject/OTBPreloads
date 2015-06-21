@@ -1,7 +1,7 @@
 {
   "name" : "~%join.mode.set",
   "response" : "Set join mode to: [[arg1]].",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 1,
   "count" : 0,
   "modifyingUserLevels" : {

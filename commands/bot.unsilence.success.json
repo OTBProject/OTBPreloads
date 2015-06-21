@@ -1,7 +1,7 @@
 {
   "name" : "~%bot.unsilence.success",
   "response" : "Bot is no longer silenced.",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {

@@ -1,7 +1,7 @@
 {
   "name" : "~%reset.user.level.success",
   "response" : "Reset user level of [[arg1]] to be based on Twitch.",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {

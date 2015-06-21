@@ -1,7 +1,7 @@
 {
   "name" : "~%bot.joined.channel",
-  "response" : "'Sup yo, is it aiight if I join yo channel?",
-  "execUserLevel" : "MODERATOR",
+  "response" : "Hi, I'm [[bot]], and I'm an OTBProject chat bot! For more information, go to http://otbproject.github.io",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {

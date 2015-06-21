@@ -1,7 +1,7 @@
 {
   "name" : "~%command.reset.count.success",
   "response" : "Reset count for command '[[arg1]]'.",
-  "execUserLevel" : "MODERATOR",
+  "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {

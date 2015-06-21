@@ -1,6 +1,6 @@
 {
-  "name" : "~%alias.disabled",
-  "response" : "Disabled alias '[[arg1]]'.",
+  "name" : "~%channel.debug.mode.set",
+  "response" : "Channel debug mode is set to: [[arg1]]",
   "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
