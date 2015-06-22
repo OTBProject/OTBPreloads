@@ -1,0 +1,15 @@
+{
+  "name" : "~%repeat.not.command.or.alias",
+  "response" : "'[[arg1]]' is not a command or alias.",
+  "execUserLevel" : "INTERNAL",
+  "minArgs" : 0,
+  "count" : 0,
+  "modifyingUserLevels" : {
+    "nameModifyingUL" : "INTERNAL",
+    "responseModifyingUL" : "SUPER_MODERATOR",
+    "userLevelModifyingUL" : "INTERNAL"
+  },
+  "script" : null,
+  "enabled" : true,
+  "debug" : false
+}
