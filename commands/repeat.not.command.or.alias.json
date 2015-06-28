@@ -1,6 +1,6 @@
 {
   "name" : "~%repeat.not.command.or.alias",
-  "response" : "'[[arg1]]' is not a command or alias.",
+  "response" : "'[[arg1]]' is not a command or alias and will not be repeated.",
   "execUserLevel" : "INTERNAL",
   "minArgs" : 0,
   "count" : 0,
