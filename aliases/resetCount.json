@@ -1,0 +1,5 @@
+{
+  "name" : "!resetCount",
+  "command" : "!count reset",
+  "modifyingUserLevel" : "BROADCASTER"
+}
