@@ -2,7 +2,7 @@
   "name" : "!timeout",
   "response" : "example response",
   "execUserLevel" : "MODERATOR",
-  "minArgs" : 1,
+  "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {
     "nameModifyingUL" : "SUPER_MODERATOR",
