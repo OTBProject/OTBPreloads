@@ -1,15 +1,15 @@
 {
-  "name" : "!resetCount",
+  "name" : "!count",
   "response" : "example response",
   "execUserLevel" : "MODERATOR",
-  "minArgs" : 1,
+  "minArgs" : 0,
   "count" : 0,
   "modifyingUserLevels" : {
     "nameModifyingUL" : "SUPER_MODERATOR",
     "responseModifyingUL" : "SUPER_MODERATOR",
     "userLevelModifyingUL" : "BROADCASTER"
   },
-  "script" : "ScriptResetCount.groovy",
+  "script" : "ScriptCount.groovy",
   "enabled" : true,
   "debug" : false
 }
