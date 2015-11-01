@@ -1,0 +1,15 @@
+{
+  "name" : "~%remove.from.success",
+  "response" : "Removed self from channel: [[arg1]].",
+  "execUserLevel" : "INTERNAL",
+  "minArgs" : 0,
+  "count" : 0,
+  "modifyingUserLevels" : {
+    "nameModifyingUL" : "INTERNAL",
+    "responseModifyingUL" : "SUPER_MODERATOR",
+    "userLevelModifyingUL" : "INTERNAL"
+  },
+  "script" : null,
+  "enabled" : true,
+  "debug" : false
+}
